@@ -1,0 +1,212 @@
+A'yosea,	-8	-6
+Afawahisa,	-5	-2
+Aftailr,	-9	-5
+Ahriman,	-2	-6
+Aktifao,	-4	-4
+Aldebaran,	0	-4
+Alpha Crucis,	1	-3
+Amderstun,	0	-6
+Amdukan,	2	2
+Angfutsag,	3	4
+Antares,	1	1
+Aphlent,	8	-6
+Arzul,	3	2
+Astron,	-8	0
+Ataurre,	5	-5
+Avereguar,	7	-3
+Banners,	-2	-5
+Bar'kakr,	7	0
+Bariishra,	4	2
+Blaskon,	6	-2
+Bleblqansh,	-8	4
+Bliardlie,	-8	5
+Brieplanz,	-9	3
+Canopus,	-1	-4
+Centrax,	4	-3
+Chiep Zhez,	-9	0
+Chit Botshti,	-5	4
+Chtierabl,	-7	9
+Core,	0	0
+Corridor,	-2	1
+Crucis Margin,	3	-1
+Dagudashaag,	-1	0
+Daibei,	-1	-2
+Dalchie Jdatl,	-6	4
+Dark Nebula,	-2	-3
+Darret,	4	-5
+Datsatl,	-5	5
+Diaspora,	0	-2
+Delphi,	1	-1
+Deneb,	-3	1
+Dfotseth,	1	5
+Dhuerorrg,	-3	3
+Drakken,	3	-4
+Driasera,	-7	4
+Eahyaw,	-5	-6
+Ealiyasiyw,	-3	-2
+Eekrookrigz,	8	2
+Eiaplial,	-8	2
+Elyetleisiyea,	-3	-6
+Empty Quarter,	2	1
+Esai'yo,	-7	-3
+Etakhasoa,	-5	-4
+Extolian,	4	-2
+Extremus,	8	5
+Fa Dzaets,	-1	3
+Fahreahluis,	-7	-5
+Faoheiroi'iyhao,	-7	-2
+Far Frontier,	-6	1
+Finggvakhou,	3	5
+Folgore,	6	-3
+Foreven,	-5	1
+Fornast,	1	0
+Ftaoiyekyu,	-6	-2
+Ftyer,	-4	-6
+Fulani,	-7	0
+Gaasher,	4	3
+Gashikan,	1	3
+Gateway,	3	0
+Genfert,	8	-4
+Glimmerdrift Reaches,	2	-1
+Gh!hken,	4	1
+Ghoekhnael,	-4	4
+Gnaa Iimb'kr,	8	1
+Grikr!ng,	5	3
+Gur,	5	2
+Gushemege,	-2	0
+Gvurrdon,	-4	2
+Gzaekfueg,	0	3
+Gzektixk,	8	-2
+Gzirr!k'l,	5	-1
+Hadji,	1	-5
+Hanstone,	-1	-5
+Harbinger,	7	5
+Harea,	-9	-2
+Heakhafaw,	-6	-4
+Hfiywitir,	-6	-5
+Hinterworlds,	2	-2
+Hlakhoi,	-4	-2
+Holowon,	-1	-6
+Ianshaplzdier,	-4	5
+Ilelish,	-2	-1
+Iphigenaia,	-6	-1
+Irlaftalea,	-5	-5
+Itvikiastaf,	-5	3
+Irugangog,	2	5
+Iwahfuah,	-3	-3
+K'trekreer,	6	-1
+Kaa G!'kul/Numbis,	4	-1
+Katoonah,	6	-5
+Kefiykhta,	-7	-4
+Kfazz Ghik,	2	4
+Kharrthon,	0	4
+Khaeaw,	-8	-2
+Khuaryakh,	-9	-4
+Kidunal,	6	-4
+Kilong,	6	0
+Knoellighz,	-4	3
+Knaeleng,	-1	4
+Kolire,	8	-3
+Koog,	7	4
+Kring Noor,	7	3
+Ksinanirz,	-3	4
+Kteex!,	6	4
+Lancask,	6	-6
+Langere,	2	-4
+Leonidae,	3	-2
+Ley,	2	0
+Ligim,/Legends	3	3
+Lishun,	0	1
+Listanaya,	-1	5
+Lorspane,	4	-4
+Luretiir!girr,	3	0
+Magyar,	-1	-3
+Malorn,/Ankhaa	0	-5
+Massilia,	0	-1
+Mavuzog,	-9	-1
+Mbil!!gh,	8	3
+Mendan,	1	2
+Meshan,	0	2
+Mighabohk,	8	0
+Mikhail,	3	-5
+Muarne,	5	-6
+Nadir,	6	5
+Neworld,	1	-4
+Ngathksirz,	-2	3
+Nooq,	7	-2
+Nuughe,	7	-1
+Oeghz Vaerrghr,	1	4
+Ohieraoi,	-8	-5
+Oiah,	-6	-6
+Old Expanses,	1	-2
+Phlange,	2	-6
+Phlask,	3	-3
+Pliabriebl,	-9	2
+Porlock,	5	-4
+Provence,	-2	2
+Raakaan,	6	1
+Rim Reach,	1	-6
+Reaver's Deep,	-2	-2
+Reft,	-3	0
+Rfigh,	4	4
+Ricenden,	5	-2
+Riftspan Reaches,	-4	-1
+Ruupiin,	5	1
+Rzakki,	-2	5
+Savria,	-6	5
+Seven Sisters,	-3	-5
+Sidiadl,	-8	3
+Solomani Rim,	0	-3
+Spangele,	5	5
+Spica,	2	-3
+Spinward Marches,	-4	1
+Sporelex,	8	-5
+Staihaia'yo,	-4	-3
+Stars End,	3	1
+Stiatlchepr,	-6	3
+Stinj Tianz,	-9	5
+Storr,	2	-5
+Tahahroal,	-9	-6
+Tar'G'kell'p,	5	4
+Teahloarifu,	-4	-5
+Tensk,	7	-6
+The Beyond,	-5	0
+Theron,	-7	-1
+Theta Borealis,	-8	-1
+Tienspevnekr,	-6	2
+Touchstone,	-5	-1
+Tracerie,	3	-6
+Treece,	7	-4
+Trenchans,	2	3
+Trojan Reach,	-4	0
+Tsadra,	-8	1
+Tsadra Davr,	-9	1
+Tuglikki,	-3	2
+Uistilrao,	-3	-4
+Ukoarriit!!b,	6	3
+Un'k!!k'ng,	6	2
+Usoirarloiau,	-7	-6
+Ustral Quadrant,	-2	-4
+Uuk,	7	1
+Uytal,	7	-5
+Vanguard Reaches,-6,0
+Veg Fergakh,0,5
+Verge,-3,-1
+Viajlefliez,-9,4
+Vland,-1,1
+Windhorn,-1,2
+Wrence,4,-6
+Wrenton,5,-3
+X'kug,5,0
+Xaagr,7,2
+Xeeler,8,4
+Yahehwe,-8,-4
+Yikler Zdanzh,-7,1
+Zao Kfeng Ig Grilokh,-2,4
+Zarushagaar,-1,-1
+Zdiedeiant,-7,3
+Zhodane,-7.2
+Ziafrplians,-5,2
+Zhiaqrqiats,-3,5
+Zhiensh,-7,5
+Zortakh,4,5
