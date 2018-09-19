@@ -18,6 +18,11 @@
  */
 package io.github.drw.rules.campaigns;
 
+import io.github.drw.rules.adventures.Adventure;
+import java.io.Serializable;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 import java.util.Objects;
 
 /**
@@ -26,29 +31,15 @@ import java.util.Objects;
  *
  * @author dr wilkinson <dr-wilkinson@users.noreply.github.com>
  */
-public class Campaign {
+public class Campaign implements Serializable {
 
-    private final int id;
+    private static final long serialVersionUID = 1L;
+
     private String title;
+    private List<Adventure> adventures = new ArrayList<>();
 
-    /**
-     * Constructs a new Campaign object.
-     *
-     * @param id The final, immutable id of the Campaign.
-     * @param title The mutable title of the Campaign.
-     */
-    Campaign(int id, String title) {
-        this.id = id;
+    public Campaign(String title) {
         this.title = title;
-    }
-
-    /**
-     * Returns the unique immutable id of this Campaign.
-     *
-     * @return The id.
-     */
-    public int getId() {
-        return id;
     }
 
     /**
@@ -65,15 +56,14 @@ public class Campaign {
      *
      * @param title The new title.
      */
-    void setTitle(String title) {
+    public void setTitle(String title) {
         this.title = title;
     }
 
     @Override
     public int hashCode() {
         int hash = 7;
-        hash = 53 * hash + this.id;
-        hash = 53 * hash + Objects.hashCode(this.title);
+        hash = 83 * hash + Objects.hashCode(this.title);
         return hash;
     }
 
@@ -89,18 +79,31 @@ public class Campaign {
             return false;
         }
         final Campaign other = (Campaign) obj;
-        if (this.id != other.id) {
-            return false;
-        }
         if (!Objects.equals(this.title, other.title)) {
             return false;
         }
         return true;
     }
 
-    @Override
-    public String toString() {
-        return "Campaign{" + "id=" + id + ", title=" + title + '}';
+    /**
+     * Adds the supplied {@link Adventure} to this Campaign.
+     *
+     * @param adventure The Adventure to add.
+     */
+    public void addAdventure(Adventure adventure) {
+        if (!adventures.contains(adventure)) {
+            adventures.add(adventure);
+        }
+    }
+
+    /**
+     * Returns an unmodifiable {@link List} of the {@link Adventure}s in this
+     * Campaign.
+     *
+     * @return The Adventures in this Campaign.
+     */
+    public List<Adventure> getAdventures() {
+        return Collections.unmodifiableList(adventures);
     }
 
 }

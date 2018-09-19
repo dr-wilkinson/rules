@@ -17,14 +17,32 @@
 package io.github.drw.rules.adventures;
 
 import io.github.drw.rules.timing.Instant;
+import java.io.Serializable;
+import java.util.Objects;
 
 /**
+ * An Adventure is a collection of {@link Encounter}s. One or more Adventures
+ * are collected into a {@link Campaign}.
  *
  * @author dr wilkinson <dr-wilkinson@users.noreply.github.com>
  */
-public class Adventure {
+public class Adventure implements Serializable {
 
+    private static final long serialVersionUID = 1L;
+
+    private String title;
     private Instant instant;
+
+    public Adventure() {
+    }
+
+    public Adventure(String title) {
+        this.title = title;
+    }
+
+    public String getTitle() {
+        return title;
+    }
 
     public Instant getInstant() {
         return instant;
@@ -32,6 +50,31 @@ public class Adventure {
 
     public void setInstant(Instant instant) {
         this.instant = instant;
+    }
+
+    @Override
+    public int hashCode() {
+        int hash = 7;
+        hash = 41 * hash + Objects.hashCode(this.title);
+        return hash;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (obj == null) {
+            return false;
+        }
+        if (getClass() != obj.getClass()) {
+            return false;
+        }
+        final Adventure other = (Adventure) obj;
+        if (!Objects.equals(this.title, other.title)) {
+            return false;
+        }
+        return true;
     }
 
 }
